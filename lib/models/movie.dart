@@ -23,7 +23,7 @@ class Movie {
       }else{
         return 'https://i.stact.imgur.com/GNhxO.png';
       }
-}
+    }
 
     Movie({
         required this.adult,
